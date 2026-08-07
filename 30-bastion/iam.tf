@@ -34,3 +34,4 @@ resource "aws_iam_instance_profile" "bastion" {
   name = "${local.common_name}-bastion"
   role = aws_iam_role.bastion.name
 }
+
