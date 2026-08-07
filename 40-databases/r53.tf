@@ -38,3 +38,5 @@ resource "aws_route53_record" "mysql" {
   allow_overwrite = true
 }
 
+
+
