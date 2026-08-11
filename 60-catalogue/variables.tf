@@ -15,6 +15,6 @@ variable "app_version" {
 }  */  
 
 variable "domain_name" {
-    default = "arrud,online"
+    default = "arrud.online"
 }
  
